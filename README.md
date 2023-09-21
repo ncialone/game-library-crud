@@ -5,7 +5,7 @@
 
 Este repositorio es un CRUD simple, el cual permite agregar videojuegos a una base de datos SQLite embebida en el proyecto.
 
-Para ejecutar el proyecto es necesario tener instalado PHP, composer y laravel 9 en adelante.
+Para ejecutarlo es necesario tener instalado PHP 8, Composer y laravel 9 en adelante.
 
 Luego de clonar el repositorio en su máquina, ejecutar dentro del directorio el comando: "php artisan serve" desde una terminal.
 
